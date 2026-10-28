@@ -1,0 +1,12 @@
+{
+  "trec": "0286b1c95dd29fac57b615cb3d5a1ea1912b62f0eaaf67fcf912bfd07694f96e",
+  "ag_news": "1cc40cab3b8ab50b69d5c37f3e82b72c8e1d6e0ea22e3c6a23bed274c0e07b88",
+  "dbpedia_14": "3d5000012f81648618f2ae2e6c4ed3e08df9d9a17a1e32cc78f6354b2b6553fc",
+  "yahoo_answers": "29c59b3ac24c2e0f59421bf50b7c3e9cb7a2b8befec7d6b1d9f1b7d675983537",
+  "patent": "cb9ba42ff965d3c4007733458d92b713841623d923a33e0a7f3d0256f6eb40d0",
+  "arxiv_abstracts": "9a3c8714d9cf88609fae7ce39c3ca16bfa0a7d3beebfbdb2d4585048b630f479",
+  "20newsgroups": "78150e9507c7fda1de1c554ad7dd51830b984b87a2f913ea17943bf5e348e2ae",
+  "lexglue_ecthr": "f5c876df3e0c3edaab6e8ed1b262bdd195e202eb783bfbf74d511af34a2d4d92",
+  "arxiv_fulltext": "bd1158c5b0562c022f895b5d2fef34530764ba1b0bfe1d7a5dacc489f5653c8e",
+  "imdb": "0ba8b578fbbcb3257c7289405da4ee81b9e8992ca659b94ff79791918c34d48b"
+}

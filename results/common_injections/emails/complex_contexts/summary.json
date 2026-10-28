@@ -1,0 +1,19 @@
+{
+  "experiment": "complex_contexts",
+  "question_configurations": [
+    "plain_choice",
+    "plain_noul",
+    "boundary_choice",
+    "boundary_noul"
+  ],
+  "paired_clean_tests": 3840,
+  "clean_induced_flips": 0,
+  "strict_paired_tests": 3840,
+  "strict_flips": 0,
+  "requests": 2040,
+  "decisions": 8160,
+  "reported_cost_usd": 0.118552,
+  "model": [
+    "typesafe/jev-1.13-20260917"
+  ]
+}

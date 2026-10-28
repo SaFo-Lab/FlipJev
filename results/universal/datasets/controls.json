@@ -1,0 +1,128 @@
+{
+  "trec": {
+    "clean": [
+      0,
+      30
+    ],
+    "control": [
+      0,
+      30
+    ],
+    "universal": [
+      17,
+      30
+    ]
+  },
+  "ag_news": {
+    "clean": [
+      0,
+      30
+    ],
+    "control": [
+      0,
+      30
+    ],
+    "universal": [
+      3,
+      30
+    ]
+  },
+  "dbpedia_14": {
+    "clean": [
+      0,
+      30
+    ],
+    "control": [
+      0,
+      30
+    ],
+    "universal": [
+      19,
+      30
+    ]
+  },
+  "yahoo_answers": {
+    "clean": [
+      0,
+      30
+    ],
+    "control": [
+      0,
+      30
+    ],
+    "universal": [
+      10,
+      30
+    ]
+  },
+  "arxiv_abstracts": {
+    "clean": [
+      0,
+      30
+    ],
+    "control": [
+      0,
+      30
+    ],
+    "universal": [
+      3,
+      30
+    ]
+  },
+  "patent": {
+    "clean": [
+      0,
+      30
+    ],
+    "control": [
+      0,
+      30
+    ],
+    "universal": [
+      20,
+      30
+    ]
+  },
+  "20newsgroups": {
+    "clean": [
+      0,
+      24
+    ],
+    "control": [
+      0,
+      24
+    ],
+    "universal": [
+      10,
+      24
+    ]
+  },
+  "arxiv_fulltext": {
+    "clean": [
+      0,
+      30
+    ],
+    "control": [
+      0,
+      30
+    ],
+    "universal": [
+      7,
+      30
+    ]
+  },
+  "lexglue_ecthr": {
+    "clean": [
+      0,
+      30
+    ],
+    "control": [
+      0,
+      30
+    ],
+    "universal": [
+      17,
+      30
+    ]
+  }
+}

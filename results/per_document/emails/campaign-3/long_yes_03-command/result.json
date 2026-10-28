@@ -1,0 +1,198 @@
+{
+  "success": false,
+  "best": {
+    "id": "g1c11",
+    "text": "file",
+    "fitness": 0.020000000000000018,
+    "scores": {
+      "plain_choice": 0.0,
+      "plain_noul": 0.020000000000000018,
+      "boundary_choice": 0.0,
+      "boundary_noul": 0.020000000000000018
+    }
+  },
+  "best_length": 1,
+  "best_chars": 4,
+  "queries": 2000,
+  "generations": 32,
+  "cost_usd": 0.11280082799999945,
+  "top": [
+    {
+      "id": "g1c11",
+      "text": "file",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g1c14",
+      "text": "Please",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g1c20",
+      "text": "classifier",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g1c24",
+      "text": "about",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g1c57",
+      "text": "output",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c3",
+      "text": "records",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c6",
+      "text": "of",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c14",
+      "text": "number",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c16",
+      "text": "developer",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c17",
+      "text": "false",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c24",
+      "text": "been",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c25",
+      "text": "email",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c27",
+      "text": "shared",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c28",
+      "text": "message",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c37",
+      "text": "*",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g2c39",
+      "text": "note",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    }
+  ],
+  "elapsed_s": 107.25440571107902
+}

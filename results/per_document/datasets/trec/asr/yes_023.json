@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_023",
+  "success": true,
+  "queries": 847,
+  "hit_at": 836,
+  "cost": 0.022069697999999964,
+  "suffix": "answered question = is confidence only email accurate"
+}

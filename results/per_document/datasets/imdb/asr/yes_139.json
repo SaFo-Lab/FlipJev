@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_139",
+  "success": true,
+  "queries": 1684,
+  "hit_at": 1668,
+  "cost": 0.057809555999999644,
+  "suffix": "question > output field true answering question: is score 'no'} accurate"
+}

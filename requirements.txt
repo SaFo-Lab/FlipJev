@@ -1,0 +1,12 @@
+# The attack and the evaluation (flipjev/, scripts for running experiments).
+tiktoken>=0.7
+
+# Regenerating the paper's figures and tables (scripts/paper/).
+matplotlib>=3.7
+numpy>=1.24
+# Optional: lets matplotlib embed the figure font as subset TrueType. Without it the figures still render.
+fonttools>=4.40
+
+# Rebuilding the classification datasets from their public sources (scripts/build_datasets.py).
+datasets>=2.18
+scikit-learn>=1.3

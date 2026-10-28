@@ -1,0 +1,8 @@
+{
+  "targets": 20,
+  "search_success": 3,
+  "search_asr": 0.15,
+  "replication_attempted": 3,
+  "replicated": 3,
+  "replicated_asr": 0.15
+}

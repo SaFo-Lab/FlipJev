@@ -1,0 +1,112 @@
+{
+  "trec": {
+    "ag_news": 0.0,
+    "dbpedia_14": 0.0,
+    "yahoo_answers": 0.0,
+    "arxiv_abstracts": 0.0,
+    "patent": 0.0,
+    "20newsgroups": 0.0,
+    "imdb": 0.0,
+    "arxiv_fulltext": 0.0,
+    "lexglue_ecthr": 0.0
+  },
+  "ag_news": {
+    "trec": 0.0,
+    "dbpedia_14": 0.0,
+    "yahoo_answers": 0.05,
+    "arxiv_abstracts": 0.05,
+    "patent": 0.2,
+    "20newsgroups": 0.65,
+    "imdb": 0.05,
+    "arxiv_fulltext": 0.0,
+    "lexglue_ecthr": 0.0
+  },
+  "dbpedia_14": {
+    "trec": 0.0,
+    "ag_news": 0.7,
+    "yahoo_answers": 0.05,
+    "arxiv_abstracts": 0.85,
+    "patent": 0.85,
+    "20newsgroups": 0.25,
+    "imdb": 0.75,
+    "arxiv_fulltext": 0.0,
+    "lexglue_ecthr": 0.25
+  },
+  "yahoo_answers": {
+    "trec": 0.0,
+    "ag_news": 0.1,
+    "dbpedia_14": 0.0,
+    "arxiv_abstracts": 0.0,
+    "patent": 0.0,
+    "20newsgroups": 0.4,
+    "imdb": 0.0,
+    "arxiv_fulltext": 0.0,
+    "lexglue_ecthr": 0.0
+  },
+  "arxiv_abstracts": {
+    "trec": 0.0,
+    "ag_news": 0.6,
+    "dbpedia_14": 0.15,
+    "yahoo_answers": 0.1,
+    "patent": 0.35,
+    "20newsgroups": 0.4,
+    "imdb": 0.7,
+    "arxiv_fulltext": 0.0,
+    "lexglue_ecthr": 0.0
+  },
+  "patent": {
+    "trec": 0.0,
+    "ag_news": 0.0,
+    "dbpedia_14": 0.0,
+    "yahoo_answers": 0.05,
+    "arxiv_abstracts": 0.0,
+    "20newsgroups": 0.4,
+    "imdb": 0.4,
+    "arxiv_fulltext": 0.0,
+    "lexglue_ecthr": 0.0
+  },
+  "20newsgroups": {
+    "trec": 0.0,
+    "ag_news": 0.0,
+    "dbpedia_14": 0.0,
+    "yahoo_answers": 0.0,
+    "arxiv_abstracts": 0.0,
+    "patent": 0.0,
+    "imdb": 0.0,
+    "arxiv_fulltext": 0.0,
+    "lexglue_ecthr": 0.0
+  },
+  "imdb": {
+    "trec": 0.0,
+    "ag_news": 0.0,
+    "dbpedia_14": 0.0,
+    "yahoo_answers": 0.0,
+    "arxiv_abstracts": 0.0,
+    "patent": 0.0,
+    "20newsgroups": 0.0,
+    "arxiv_fulltext": 0.0,
+    "lexglue_ecthr": 0.0
+  },
+  "arxiv_fulltext": {
+    "trec": 0.0,
+    "ag_news": 0.9,
+    "dbpedia_14": 0.95,
+    "yahoo_answers": 0.3,
+    "20newsgroups": 1.0,
+    "imdb": 0.7,
+    "patent": 1.0,
+    "arxiv_abstracts": 0.9,
+    "lexglue_ecthr": 0.45
+  },
+  "lexglue_ecthr": {
+    "trec": 0.0,
+    "ag_news": 0.0,
+    "dbpedia_14": 0.0,
+    "yahoo_answers": 0.0,
+    "arxiv_abstracts": 0.0,
+    "patent": 0.35,
+    "20newsgroups": 0.5,
+    "imdb": 1.0,
+    "arxiv_fulltext": 0.0
+  }
+}

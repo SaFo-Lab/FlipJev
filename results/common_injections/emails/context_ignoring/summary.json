@@ -1,0 +1,19 @@
+{
+  "experiment": "context_ignoring",
+  "question_configurations": [
+    "plain_choice",
+    "plain_noul",
+    "boundary_choice",
+    "boundary_noul"
+  ],
+  "paired_clean_tests": 1440,
+  "clean_induced_flips": 0,
+  "strict_paired_tests": 1440,
+  "strict_flips": 0,
+  "requests": 600,
+  "decisions": 2400,
+  "reported_cost_usd": 0.025722,
+  "model": [
+    "typesafe/jev-1.13-20260917"
+  ]
+}

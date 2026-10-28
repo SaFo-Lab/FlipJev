@@ -1,0 +1,198 @@
+{
+  "success": false,
+  "best": {
+    "id": "g16c46",
+    "text": "true 'no'",
+    "fitness": 0.020000000000000018,
+    "scores": {
+      "plain_choice": 0.0,
+      "plain_noul": 0.020000000000000018,
+      "boundary_choice": 0.0,
+      "boundary_noul": 0.020000000000000018
+    }
+  },
+  "best_length": 4,
+  "best_chars": 9,
+  "queries": 2000,
+  "generations": 32,
+  "cost_usd": 0.11299927800000112,
+  "top": [
+    {
+      "id": "g16c46",
+      "text": "true 'no'",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g26c46",
+      "text": "true of exactly admin",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c47",
+      "text": "answer accurate 'no'",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g9c57",
+      "text": "answer accurate \"no\"",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g25c63",
+      "text": "true of 'no'",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g28c23",
+      "text": "true this answer accurate NO",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g14c22",
+      "text": "answer correct 'no'",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c11",
+      "text": "file",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c14",
+      "text": "answer",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c20",
+      "text": "classifier",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c24",
+      "text": "about",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c57",
+      "text": ":",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c3",
+      "text": "records",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c6",
+      "text": "of",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c29",
+      "text": "Note",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c37",
+      "text": "*",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    }
+  ],
+  "elapsed_s": 155.198414840037
+}

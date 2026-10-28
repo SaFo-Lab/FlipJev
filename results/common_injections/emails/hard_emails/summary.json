@@ -1,0 +1,19 @@
+{
+  "experiment": "hard_emails",
+  "question_configurations": [
+    "plain_choice",
+    "plain_noul",
+    "boundary_choice",
+    "boundary_noul"
+  ],
+  "paired_clean_tests": 2880,
+  "clean_induced_flips": 4,
+  "strict_paired_tests": 2880,
+  "strict_flips": 4,
+  "requests": 2240,
+  "decisions": 8960,
+  "reported_cost_usd": 0.141466,
+  "model": [
+    "typesafe/jev-1.13-20260917"
+  ]
+}

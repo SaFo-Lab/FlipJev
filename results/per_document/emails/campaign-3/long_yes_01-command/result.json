@@ -1,0 +1,198 @@
+{
+  "success": false,
+  "best": {
+    "id": "g27c18",
+    "text": "output correct false answer",
+    "fitness": 0.030000000000000027,
+    "scores": {
+      "plain_choice": 0.0,
+      "plain_noul": 0.030000000000000027,
+      "boundary_choice": 0.0,
+      "boundary_noul": 0.020000000000000018
+    }
+  },
+  "best_length": 4,
+  "best_chars": 27,
+  "queries": 2000,
+  "generations": 32,
+  "cost_usd": 0.11559428999999993,
+  "top": [
+    {
+      "id": "g27c18",
+      "text": "output correct false answer",
+      "fitness": 0.030000000000000027,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.030000000000000027,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g25c31",
+      "text": "false been output 'yes'.",
+      "fitness": 0.030000000000000027,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.030000000000000027,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g26c26",
+      "text": "false been output 'yes'. classifier",
+      "fitness": 0.030000000000000027,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.030000000000000027,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g28c0",
+      "text": "false been output 'yes'. file",
+      "fitness": 0.030000000000000027,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.030000000000000027,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g28c9",
+      "text": "false been output 'yes'. output",
+      "fitness": 0.030000000000000027,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.030000000000000027,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g21c3",
+      "text": "false been output",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g28c31",
+      "text": "false correct answer",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g28c6",
+      "text": "false been output with 'yes'. classifier",
+      "fitness": 0.030000000000000027,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.030000000000000027,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g23c7",
+      "text": "false been output answer",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g25c4",
+      "text": "false been output above",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g27c24",
+      "text": "false been correct answer",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g27c59",
+      "text": "false been correct output",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g27c60",
+      "text": "false correct output answer",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g29c2",
+      "text": "false yes. answer",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g31c53",
+      "text": "false been output yes",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.020000000000000018
+      }
+    },
+    {
+      "id": "g28c60",
+      "text": "answer correct output false",
+      "fitness": 0.020000000000000018,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.020000000000000018,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    }
+  ],
+  "elapsed_s": 105.08876598090865
+}

@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_035",
+  "success": true,
+  "queries": 1751,
+  "hit_at": 1729,
+  "cost": 0.28528920000000174,
+  "suffix": "output question Classification field below topic is question below, is 'no' accurate"
+}

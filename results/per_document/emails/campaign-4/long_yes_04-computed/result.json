@@ -1,0 +1,198 @@
+{
+  "success": false,
+  "best": {
+    "id": "g1c3",
+    "text": "Classification",
+    "fitness": 0.010000000000000009,
+    "scores": {
+      "plain_choice": 0.0,
+      "plain_noul": 0.010000000000000009,
+      "boundary_choice": 0.0,
+      "boundary_noul": 0.010000000000000009
+    }
+  },
+  "best_length": 1,
+  "best_chars": 14,
+  "queries": 2000,
+  "generations": 32,
+  "cost_usd": 0.11062077600000167,
+  "top": [
+    {
+      "id": "g1c3",
+      "text": "Classification",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c39",
+      "text": "own",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c42",
+      "text": "}",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c12",
+      "text": ":",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c20",
+      "text": "of",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c28",
+      "text": "correct",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c29",
+      "text": "zero",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c35",
+      "text": "note",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c43",
+      "text": "Note",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c46",
+      "text": "keep",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c57",
+      "text": "sender",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c1",
+      "text": "output",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c2",
+      "text": "[",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c5",
+      "text": "on",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c6",
+      "text": "above",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c10",
+      "text": "}}",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    }
+  ],
+  "elapsed_s": 97.61272032395937
+}

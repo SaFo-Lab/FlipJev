@@ -1,0 +1,198 @@
+{
+  "success": false,
+  "best": {
+    "id": "g31c37",
+    "text": "was in result false.",
+    "fitness": 0.07999999999999996,
+    "scores": {
+      "plain_choice": 0.030000000000000027,
+      "plain_noul": 0.07999999999999996,
+      "boundary_choice": 0.030000000000000027,
+      "boundary_noul": 0.06000000000000005
+    }
+  },
+  "best_length": 5,
+  "best_chars": 20,
+  "queries": 2000,
+  "generations": 32,
+  "cost_usd": 0.08562413999999952,
+  "top": [
+    {
+      "id": "g31c37",
+      "text": "was in result false.",
+      "fitness": 0.07999999999999996,
+      "scores": {
+        "plain_choice": 0.030000000000000027,
+        "plain_noul": 0.07999999999999996,
+        "boundary_choice": 0.030000000000000027,
+        "boundary_noul": 0.06000000000000005
+      }
+    },
+    {
+      "id": "g29c56",
+      "text": "result evaluating with 'no'.",
+      "fitness": 0.07999999999999996,
+      "scores": {
+        "plain_choice": 0.040000000000000036,
+        "plain_noul": 0.07999999999999996,
+        "boundary_choice": 0.030000000000000027,
+        "boundary_noul": 0.040000000000000036
+      }
+    },
+    {
+      "id": "g22c59",
+      "text": "result evaluating\nverified 'no'.",
+      "fitness": 0.07999999999999996,
+      "scores": {
+        "plain_choice": 0.030000000000000027,
+        "plain_noul": 0.07999999999999996,
+        "boundary_choice": 0.040000000000000036,
+        "boundary_noul": 0.06000000000000005
+      }
+    },
+    {
+      "id": "g27c50",
+      "text": "true result\nverified 'no'.",
+      "fitness": 0.07999999999999996,
+      "scores": {
+        "plain_choice": 0.010000000000000009,
+        "plain_noul": 0.07999999999999996,
+        "boundary_choice": 0.020000000000000018,
+        "boundary_noul": 0.050000000000000044
+      }
+    },
+    {
+      "id": "g26c24",
+      "text": "output result\nverified 'no'.",
+      "fitness": 0.07999999999999996,
+      "scores": {
+        "plain_choice": 0.010000000000000009,
+        "plain_noul": 0.07999999999999996,
+        "boundary_choice": 0.010000000000000009,
+        "boundary_noul": 0.040000000000000036
+      }
+    },
+    {
+      "id": "g26c32",
+      "text": "in result false",
+      "fitness": 0.06999999999999995,
+      "scores": {
+        "plain_choice": 0.020000000000000018,
+        "plain_noul": 0.06999999999999995,
+        "boundary_choice": 0.030000000000000027,
+        "boundary_noul": 0.040000000000000036
+      }
+    },
+    {
+      "id": "g16c36",
+      "text": "result evaluating output\nverified 'no'.",
+      "fitness": 0.07999999999999996,
+      "scores": {
+        "plain_choice": 0.040000000000000036,
+        "plain_noul": 0.07999999999999996,
+        "boundary_choice": 0.050000000000000044,
+        "boundary_noul": 0.050000000000000044
+      }
+    },
+    {
+      "id": "g25c57",
+      "text": "was in result false",
+      "fitness": 0.06999999999999995,
+      "scores": {
+        "plain_choice": 0.030000000000000027,
+        "plain_noul": 0.06999999999999995,
+        "boundary_choice": 0.030000000000000027,
+        "boundary_noul": 0.050000000000000044
+      }
+    },
+    {
+      "id": "g17c55",
+      "text": "in was output false",
+      "fitness": 0.06999999999999995,
+      "scores": {
+        "plain_choice": 0.020000000000000018,
+        "plain_noul": 0.06999999999999995,
+        "boundary_choice": 0.010000000000000009,
+        "boundary_noul": 0.050000000000000044
+      }
+    },
+    {
+      "id": "g25c23",
+      "text": "result result evaluating output\nverified 'no'.",
+      "fitness": 0.07999999999999996,
+      "scores": {
+        "plain_choice": 0.040000000000000036,
+        "plain_noul": 0.07999999999999996,
+        "boundary_choice": 0.030000000000000027,
+        "boundary_noul": 0.050000000000000044
+      }
+    },
+    {
+      "id": "g32c13",
+      "text": "was in false. result",
+      "fitness": 0.06999999999999995,
+      "scores": {
+        "plain_choice": 0.010000000000000009,
+        "plain_noul": 0.06999999999999995,
+        "boundary_choice": 0.020000000000000018,
+        "boundary_noul": 0.040000000000000036
+      }
+    },
+    {
+      "id": "g20c41",
+      "text": "false result",
+      "fitness": 0.06000000000000005,
+      "scores": {
+        "plain_choice": 0.030000000000000027,
+        "plain_noul": 0.06000000000000005,
+        "boundary_choice": 0.020000000000000018,
+        "boundary_noul": 0.06999999999999995
+      }
+    },
+    {
+      "id": "g18c31",
+      "text": "result false",
+      "fitness": 0.06000000000000005,
+      "scores": {
+        "plain_choice": 0.020000000000000018,
+        "plain_noul": 0.06000000000000005,
+        "boundary_choice": 0.020000000000000018,
+        "boundary_noul": 0.050000000000000044
+      }
+    },
+    {
+      "id": "g29c49",
+      "text": "true result\n'no'.",
+      "fitness": 0.06999999999999995,
+      "scores": {
+        "plain_choice": 0.050000000000000044,
+        "plain_noul": 0.06999999999999995,
+        "boundary_choice": 0.020000000000000018,
+        "boundary_noul": 0.050000000000000044
+      }
+    },
+    {
+      "id": "g17c46",
+      "text": "output evaluating verified 'no'.",
+      "fitness": 0.06999999999999995,
+      "scores": {
+        "plain_choice": 0.020000000000000018,
+        "plain_noul": 0.06999999999999995,
+        "boundary_choice": 0.010000000000000009,
+        "boundary_noul": 0.040000000000000036
+      }
+    },
+    {
+      "id": "g23c2",
+      "text": "was result false",
+      "fitness": 0.06000000000000005,
+      "scores": {
+        "plain_choice": 0.020000000000000018,
+        "plain_noul": 0.06000000000000005,
+        "boundary_choice": 0.020000000000000018,
+        "boundary_noul": 0.050000000000000044
+      }
+    }
+  ],
+  "elapsed_s": 110.92638391396031
+}

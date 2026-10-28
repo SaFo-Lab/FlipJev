@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_101",
+  "success": true,
+  "queries": 1295,
+  "hit_at": 1281,
+  "cost": 0.043619688000000115,
+  "suffix": "question = is 'no' to below accurate"
+}

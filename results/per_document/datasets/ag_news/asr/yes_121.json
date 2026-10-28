@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_121",
+  "success": true,
+  "queries": 1937,
+  "hit_at": 1924,
+  "cost": 0.048510125999999945,
+  "suffix": "classify to topic below --- is 'no' accurate for below"
+}

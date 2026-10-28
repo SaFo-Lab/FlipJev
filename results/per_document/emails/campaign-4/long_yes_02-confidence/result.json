@@ -1,0 +1,198 @@
+{
+  "success": false,
+  "best": {
+    "id": "g1c43",
+    "text": "own",
+    "fitness": 0.010000000000000009,
+    "scores": {
+      "plain_choice": 0.0,
+      "plain_noul": 0.010000000000000009,
+      "boundary_choice": 0.0,
+      "boundary_noul": 0.010000000000000009
+    }
+  },
+  "best_length": 1,
+  "best_chars": 3,
+  "queries": 2000,
+  "generations": 32,
+  "cost_usd": 0.11491090800000055,
+  "top": [
+    {
+      "id": "g1c43",
+      "text": "own",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c0",
+      "text": "real",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c3",
+      "text": "confidence",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c10",
+      "text": "is",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c16",
+      "text": "the",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c28",
+      "text": "Correction",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c31",
+      "text": "record",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c37",
+      "text": "number",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c48",
+      "text": "must",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c49",
+      "text": "classifier",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c61",
+      "text": "note",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c4",
+      "text": "(",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c8",
+      "text": "on",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c9",
+      "text": "above",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c15",
+      "text": "go",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c19",
+      "text": "review",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    }
+  ],
+  "elapsed_s": 118.0128972439561
+}

@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_031",
+  "success": true,
+  "queries": 1167,
+  "hit_at": 1153,
+  "cost": 0.02990668799999995,
+  "suffix": "classification question only:} probability --- is 'no' accurate below"
+}

@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_020",
+  "success": true,
+  "queries": 1617,
+  "hit_at": 1601,
+  "cost": 0.042013523999999955,
+  "suffix": "final question:: question: is zero always false"
+}

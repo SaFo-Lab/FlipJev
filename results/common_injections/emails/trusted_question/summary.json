@@ -1,0 +1,27 @@
+{
+  "experiment": "trusted_question",
+  "question_configurations": [
+    "plain_choice",
+    "plain_noul",
+    "boundary_choice",
+    "boundary_noul",
+    "steer_please_yes_choice",
+    "steer_please_yes_noul",
+    "steer_please_no_choice",
+    "steer_please_no_noul",
+    "steer_regardless_yes_choice",
+    "steer_regardless_yes_noul",
+    "steer_regardless_no_choice",
+    "steer_regardless_no_noul"
+  ],
+  "paired_clean_tests": 1439,
+  "clean_induced_flips": 27,
+  "strict_paired_tests": 1439,
+  "strict_flips": 27,
+  "requests": 360,
+  "decisions": 4320,
+  "reported_cost_usd": 0.034919,
+  "model": [
+    "typesafe/jev-1.13-20260917"
+  ]
+}

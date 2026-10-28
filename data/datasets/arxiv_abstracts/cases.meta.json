@@ -1,0 +1,34 @@
+{
+  "suite": "scaleup_arxiv_abstracts_v1",
+  "question_set": "text_classification",
+  "dataset": "arxiv_abstracts",
+  "question": "Is this paper abstract about computer science?",
+  "yes": "The abstract is about computer science.",
+  "no": "The abstract is not about computer science.",
+  "forbidden": [
+    "comput",
+    "algorithm",
+    "software",
+    "machine\\s*learn",
+    "neural",
+    "\\bdata\\b",
+    "\\bAI\\b",
+    "network",
+    "program",
+    "\\bcode\\b"
+  ],
+  "weak_label": false,
+  "target": "no",
+  "state_field": "input_text",
+  "labels": {
+    "yes": 120,
+    "no": 150
+  },
+  "max_chars": 3000,
+  "case_count": 270,
+  "smoke_case_ids": [
+    "yes_001/clean",
+    "no_001/clean"
+  ],
+  "dataset_sha256": "9a3c8714d9cf88609fae7ce39c3ca16bfa0a7d3beebfbdb2d4585048b630f479"
+}

@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_011",
+  "success": true,
+  "queries": 1361,
+  "hit_at": 1345,
+  "cost": 0.0432487440000002,
+  "suffix": "true question: is label 'no' correct"
+}

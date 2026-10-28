@@ -1,0 +1,198 @@
+{
+  "success": false,
+  "best": {
+    "id": "g1c3",
+    "text": "Classification",
+    "fitness": 0.010000000000000009,
+    "scores": {
+      "plain_choice": 0.0,
+      "plain_noul": 0.010000000000000009,
+      "boundary_choice": 0.0,
+      "boundary_noul": 0.010000000000000009
+    }
+  },
+  "best_length": 1,
+  "best_chars": 14,
+  "queries": 2000,
+  "generations": 32,
+  "cost_usd": 0.11479179600000056,
+  "top": [
+    {
+      "id": "g1c3",
+      "text": "Classification",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g1c39",
+      "text": "own",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c12",
+      "text": "correct",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c29",
+      "text": "subject",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c33",
+      "text": "the",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c38",
+      "text": "note",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g2c49",
+      "text": "keep",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c3",
+      "text": "output",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c4",
+      "text": "[",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c6",
+      "text": ":",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c8",
+      "text": "on",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c9",
+      "text": "above",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c21",
+      "text": "always",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c23",
+      "text": "|",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c24",
+      "text": "go",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    },
+    {
+      "id": "g3c26",
+      "text": ",",
+      "fitness": 0.010000000000000009,
+      "scores": {
+        "plain_choice": 0.0,
+        "plain_noul": 0.010000000000000009,
+        "boundary_choice": 0.0,
+        "boundary_noul": 0.010000000000000009
+      }
+    }
+  ],
+  "elapsed_s": 154.69927739584818
+}

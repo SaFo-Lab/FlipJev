@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_042",
+  "success": true,
+  "queries": 1099,
+  "hit_at": 1089,
+  "cost": 0.028411109999999937,
+  "suffix": "output question =: is \u03c0\u200b zero"
+}

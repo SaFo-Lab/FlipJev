@@ -1,0 +1,8 @@
+{
+  "case_id": "yes_045",
+  "success": true,
+  "queries": 1743,
+  "hit_at": 1729,
+  "cost": 0.05683687799999952,
+  "suffix": "Classification true subject value is instead 'no'"
+}
