@@ -1,9 +1,32 @@
 # FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models
 
-This repository releases the code, the result files and the attack suffixes for the paper. It lets you run every
-experiment of the paper and regenerate every table and figure from the released results without any API call.
+[![Paper](https://img.shields.io/badge/Paper-arXiv%20%28coming%20soon%29-lightgrey)](#citation)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://flipjev.github.io)
+
+This repository contains the code, the attack suffixes and all result files of the paper. It runs every experiment of
+the paper and regenerates every table and figure from the released results without any API call.
+
+## Authors
+
+**[Xiaogeng Liu](https://xiaogeng-liu.com)**<sup>1</sup>, **[Xinyan Wang](https://xinyan-wang-stat.github.io)**<sup>2</sup>, **[Chaowei Xiao](https://xiaocw11.github.io)**<sup>1</sup>
+
+<sup>1</sup>Johns Hopkins University, <sup>2</sup>University of Wisconsin–Madison
+
+## News
+
+**[2026/10]** We release the code, the attack suffixes and all result files, together with the
+[project page](https://flipjev.github.io).
 
 ## Overview
+
+<p align="center">
+  <img src="assets/overview.png" alt="A typed decision and its universal suffix" width="100%">
+</p>
+
+**A typed decision and its universal suffix.** The trusted question of the developer and the untrusted content travel
+in separate fields (A). A black-box attacker appends a short suffix to the content that flips the decision without
+naming the subject (B). One suffix, found on a single dataset, flips 90–100% of the documents in five other tasks
+without any further search (C).
 
 A *typed decision model* answers a fixed question about a piece of content and returns a typed decision, such as a
 yes/no proposition, a choice among named options or a level on a scale, in a single fast query and without generating
@@ -192,7 +215,7 @@ Before releasing the result files and suffixes, each dataset's licence was check
 Licences were read from each dataset's own card or source page. The pinned Hugging Face revisions are in
 `flipjev/datasets.py`, and the builder verifies each rebuilt file against `data/datasets/checksums.json`.
 
-## Responsible disclosure
+## Ethics Statement
 
 This work is a robustness evaluation of a commercial model through its public API. The findings were reported to
 TypeSafe before publication through the vendor's official security-reporting channel. The report included the
@@ -200,3 +223,30 @@ universal suffixes of the nine datasets and of the two trajectory benchmarks, to
 API response for each case, so that every case can be replayed. The suffixes change only the decisions of a typed
 decision model; they do not extract data and do not make the model produce harmful text, and they affect only systems
 in which the attacker can already write content.
+
+## Citation
+
+If you find our work useful, please cite our paper:
+
+```bibtex
+@article{liu2026flipjev,
+  title   = {FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models},
+  author  = {Liu, Xiaogeng and Wang, Xinyan and Xiao, Chaowei},
+  journal = {arXiv preprint},
+  year    = {2026}
+}
+```
+
+## License
+
+This code is released under a research-only license. See [LICENSE](LICENSE) for details. The datasets keep their own
+licences (see [Data and licences](#data-and-licences)).
+
+**Intended use**: This code is provided for academic research and defensive security purposes only. It is intended to
+help the community measure and improve the robustness of typed decision models.
+
+## Contact
+
+- **Project page**: [https://flipjev.github.io](https://flipjev.github.io)
+- **Issues**: [GitHub Issues](https://github.com/SaFo-Lab/FlipJev/issues)
+- **Email**: xliu316@jhu.edu, chaoweixiao@jhu.edu
