@@ -8,9 +8,11 @@ the paper and regenerates every table and figure from the released results witho
 
 ## Authors
 
-**[Xiaogeng Liu](https://xiaogeng-liu.com)**<sup>1</sup>, **[Xinyan Wang](https://xinyan-wang-stat.github.io)**<sup>2</sup>, **[Chaowei Xiao](https://xiaocw11.github.io)**<sup>1</sup>
+**[Xiaogeng Liu](https://xiaogeng-liu.com)**<sup>1*</sup>, **[Xinyan Wang](https://xinyan-wang-stat.github.io)**<sup>2</sup>, **[Chaowei Xiao](https://xiaocw11.github.io)**<sup>1</sup>
 
 <sup>1</sup>Johns Hopkins University, <sup>2</sup>University of Wisconsin–Madison
+
+*Corresponding author: xliu316@jhu.edu
 
 ## News
 
@@ -249,4 +251,4 @@ help the community measure and improve the robustness of typed decision models.
 
 - **Project page**: [https://flipjev.github.io](https://flipjev.github.io)
 - **Issues**: [GitHub Issues](https://github.com/SaFo-Lab/FlipJev/issues)
-- **Email**: xliu316@jhu.edu, chaoweixiao@jhu.edu
+- **Email**: xliu316@jhu.edu
