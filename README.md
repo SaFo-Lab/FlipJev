@@ -1,6 +1,6 @@
 # FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv%20%28coming%20soon%29-lightgrey)](#citation)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2610.38895)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://flipjev.github.io)
 
 This repository contains the code, the attack suffixes and all result files of the paper. It runs every experiment of
@@ -16,6 +16,7 @@ the paper and regenerates every table and figure from the released results witho
 
 ## News
 
+**[2026/10]** Our paper is available on [arXiv](https://arxiv.org/abs/2610.38895).\
 **[2026/10]** We release the code, the attack suffixes and all result files, together with the
 [project page](https://flipjev.github.io).
 
@@ -231,11 +232,14 @@ in which the attacker can already write content.
 If you find our work useful, please cite our paper:
 
 ```bibtex
-@article{liu2026flipjev,
-  title   = {FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models},
-  author  = {Liu, Xiaogeng and Wang, Xinyan and Xiao, Chaowei},
-  journal = {arXiv preprint},
-  year    = {2026}
+@misc{liu2026flipjevfastblackboxred,
+      title={FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models}, 
+      author={Xiaogeng Liu and Xinyan Wang and Chaowei Xiao},
+      year={2026},
+      eprint={2610.38895},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2610.38895}, 
 }
 ```
 

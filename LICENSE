@@ -21,11 +21,14 @@ subject to the following conditions:
 3. CITATION: Any publications, presentations, or other public disclosures
    that make use of this Software must cite the original paper:
 
-   @article{liu2026flipjev,
-     title   = {FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models},
-     author  = {Liu, Xiaogeng and Wang, Xinyan and Xiao, Chaowei},
-     journal = {arXiv preprint},
-     year    = {2026}
+   @misc{liu2026flipjevfastblackboxred,
+         title={FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models}, 
+         author={Xiaogeng Liu and Xinyan Wang and Chaowei Xiao},
+         year={2026},
+         eprint={2610.38895},
+         archivePrefix={arXiv},
+         primaryClass={cs.CR},
+         url={https://arxiv.org/abs/2610.38895}, 
    }
 
 4. NO MALICIOUS USE: The Software shall not be used to:
